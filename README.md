@@ -15,7 +15,7 @@ pip install tfb-draftfast
 
 ## Usage
 
-Example usage ([you can experiment with these examples in repl.it](https://repl.it/@BenBrostoff/AllWarlikeDemoware)):
+Example usage
 
 ```python
 from draftfast import rules
@@ -56,7 +56,7 @@ roster = run(
 )
 ```
 
-You can see more examples in the [`examples` directory](https://github.com/BenBrostoff/draftfast/tree/master/examples).
+You can see more examples in the [`examples` directory](https://github.com/drwe-tfb/tfb-draftfast/tree/master/examples).
 
 ## Game Rules
 
@@ -222,4 +222,4 @@ Special thanks to [Ben Brostoff](https://github.com/BenBrostoff), who authored [
 Current project maintainers:
 
 - [BenBrostoff](https://github.com/BenBrostoff)
-- [Drew Dresser](https://github.com/drewdresser)
+- [Drew](https://github.com/drew-tfb)

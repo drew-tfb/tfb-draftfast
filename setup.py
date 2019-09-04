@@ -12,13 +12,13 @@ requires = [
 setuptools.setup(
     name='tfb-draftfast',
     version='1.0.0',
-    author='Drew Dresser',
+    author='Drew',
     author_email='drew@thefantasybros.com',
     description='A tool to automate and optimize DraftKings and FanDuel '
                 'lineup construction.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/drewdresser',
+    url='https://github.com/drew-tfb',
     packages=setuptools.find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
