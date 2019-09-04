@@ -1,4 +1,5 @@
-## Introduction &middot; [![Build Status](https://travis-ci.org/BenBrostoff/draftfast.svg?branch=master)](https://travis-ci.org/BenBrostoff/draftfast) &middot; [![](https://draftfast.herokuapp.com/badge.svg)](https://draftfast.herokuapp.com/) &middot; [![](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/user?u=8965834)
+## Introduction
+[![Build Status](https://travis-ci.org/drew-tfb/tfb-draftfast.svg?branch=master)](https://travis-ci.org/drew-tfb/tfb-draftfast)
 
 ![](marketing/NFL_OPTIMIZED.png)
 
@@ -6,7 +7,7 @@ An incredibly powerful tool that automates and optimizes lineup building, allowi
 
 ## Installation
 
-Requires Python 3.6.
+Requires Python 7.
 
 ```bash
 pip install tfb-draftfast
