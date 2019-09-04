@@ -19,4 +19,5 @@ start_container.bat
 
 dist/
 draftfast.egg-info/
-
+tfb_draftfast.egg-info/
+build/

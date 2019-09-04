@@ -7,8 +7,8 @@ then
     exit
 fi
 
-python setup.py sdist
-twine upload "dist/draftfast-${1}.tar.gz"
+python3 setup.py sdist
+twine upload "dist/tfb-draftfast-${1}.tar.gz"
 
 git tag $1
 git push origin --tags

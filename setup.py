@@ -18,7 +18,7 @@ setuptools.setup(
                 'lineup construction.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/drew-tfb',
+    url='https://github.com/drew-tfb/tfb-draftfast',
     packages=setuptools.find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
